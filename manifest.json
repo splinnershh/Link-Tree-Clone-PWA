@@ -1,0 +1,51 @@
+{
+  "name": "Shawn The Barber",
+  "short_name": "Shawn The Barber",
+  "start_url": "/tree/shawnthebarber/index.html",
+  "display": "standalone",
+  "background_color": "#F4F4F4",
+  "theme_color": "#F4F4F4", 
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "aflawlesscut.com/tree/shawnthebarber/images/icons/logo-72x72.png",
+      "type": "image/png", 
+      "sizes": "72x72"
+    },
+    {
+      "src": "aflawlesscut.com/tree/shawnthebarber/images/icon/logo-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "aflawlesscut.com/tree/shawnthebarber/images/icons/logo-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/tree/shawnthebarber/images/icons/logo-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "aflawlesscut.com/tree/shawnthebarber/images/icons/logo-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "aflawlesscut.com/tree/shawnthebarber/images/icons/logo-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "aflawlesscut.com/tree/shawnthebarber/images/icons/logo-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    }, 
+    {
+      "src": "aflawlesscut.com/tree/shawnthebarber/images/icons/logo-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
